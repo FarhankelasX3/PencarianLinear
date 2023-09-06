@@ -1,0 +1,2 @@
+# PencarianLinear
+Pencarian Linear
